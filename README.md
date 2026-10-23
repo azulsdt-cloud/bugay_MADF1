@@ -28,11 +28,11 @@ Student Registration and Profile Management Application
 - SnackBar
 - setState()
 
-  ## How to Run
-  1. Open in GitHub Codespaces
-  2. Run 'flutter pub get'
-  3. Run 'flutter run -d web-server --web-hostname 0.0.0.0 --web-port 3000'.
-  4. Open forwarded port 3000.
+## How to Run
+1. Open in GitHub Codespaces
+2. Run 'flutter pub get'
+3. Run 'flutter run -d web-server --web-hostname 0.0.0.0 --web-port 3000'.
+4. Open forwarded port 3000.
 
-  ## Documentation
-  Submitted separately as one PDF through Microsoft Teams.
+## Documentation
+Submitted separately as one PDF through Microsoft Teams.
